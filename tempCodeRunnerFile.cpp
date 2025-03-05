@@ -1,0 +1,1 @@
+output = reverse(text) ;
